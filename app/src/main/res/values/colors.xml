@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- iOS Messenger blue -->
+    <color name="ios_blue">#0A84FF</color>
+    <color name="ios_blue_dark">#0071E3</color>
+
+    <!-- Backgrounds -->
+    <color name="bg_primary">#FFFFFF</color>
+    <color name="bg_secondary">#F2F2F7</color>
+    <color name="bubble_theirs">#E9E9EB</color>
+
+    <!-- Text -->
+    <color name="text_primary">#000000</color>
+    <color name="text_secondary">#8E8E93</color>
+
+    <!-- UI elements -->
+    <color name="separator">#C6C6C8</color>
+    <color name="avatar_bg">#0A84FF</color>
+    <color name="badge_bg">#FF3B30</color>
+    <color name="reaction_bg">#FFFFFF</color>
+    <color name="handle_color">#C7C7CC</color>
+</resources>
